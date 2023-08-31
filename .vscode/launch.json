@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "juang",
+            "request": "launch",
+            "mainClass": "juang",
+            "projectName": "Learning java_25f327c8"
+        },
+        {
+            "type": "java",
+            "name": "KalkulatorBangunRuang",
+            "request": "launch",
+            "mainClass": "KalkulatorBangunRuang",
+            "projectName": "Learning java_25f327c8"
+        },
+        {
+            "type": "java",
+            "name": "KalkulatorSuhu",
+            "request": "launch",
+            "mainClass": "KalkulatorSuhu",
+            "projectName": "Learning java_25f327c8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "KasirATK",
+            "request": "launch",
+            "mainClass": "KasirATK",
+            "projectName": "Learning java_25f327c8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Learning java_25f327c8"
+        }
+    ]
+}
